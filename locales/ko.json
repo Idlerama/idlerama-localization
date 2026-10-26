@@ -128,6 +128,7 @@
   "editor.inspector.notBehavior": "쓰지 않음",
   "editor.inspector.padding": "여백",
   "editor.inspector.position": "위치",
+  "editor.inspector.resetField": "{label} 기본값으로 되돌리기",
   "editor.inspector.size": "크기",
   "editor.inspector.spacing": "간격",
   "editor.inspector.speed": "속도(칸/초)",
