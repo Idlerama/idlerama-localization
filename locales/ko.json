@@ -191,7 +191,7 @@
   "editor.status.saved": "저장됨",
   "editor.status.saving": "저장하는 중",
   "editor.status.undoTitle": "되돌리기 ({mod} + Z)",
-  "editor.toolbar.free": "자유 선택 (준비 중)",
+  "editor.toolbar.free": "자유 선택",
   "editor.toolbar.grid": "격자 선택",
   "editor.toolbar.label": "시트 도구",
   "editor.toolbar.move": "끌거나 방향키로 옮기기",
