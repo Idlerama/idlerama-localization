@@ -68,6 +68,8 @@
   "editor.anim.grab": "집힘",
   "editor.anim.grabInfo": "캐릭터를 마우스로 집어 들고 있는 동안 반복해서 재생돼요. 방향 없이 정면 하나만 둬요.",
   "editor.anim.idle": "대기",
+  "editor.anim.link": "{name}: 예약 애니메이션에 연결",
+  "editor.anim.linkShort": "연결",
   "editor.anim.pet": "쓰다듬기",
   "editor.anim.petInfo": "캐릭터 위에서 마우스 휠을 굴려 쓰다듬으면 한 번 재생돼요. 아직 데모에서는 쓰지 않아요.",
   "editor.anim.reservedInfo": "{info} 만들지 않으면 대기 애니메이션을 재생해요.",
