@@ -80,6 +80,7 @@
   "editor.aseprite.applied": "태그 {count}개를 애니메이션에 붙였어요",
   "editor.aseprite.apply": "가져오기",
   "editor.aseprite.dirOf": "{tag}: 붙일 방향",
+  "editor.aseprite.directionsHint": "태그 방향에 맞춰 추천했어요. 가져올 때 팩 방향 수도 이 값으로 바뀌어요",
   "editor.aseprite.frameCount": "프레임",
   "editor.aseprite.include": "가져올지",
   "editor.aseprite.includeTag": "{tag}: 애니메이션으로 가져오기",
