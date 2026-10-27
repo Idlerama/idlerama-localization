@@ -24,6 +24,7 @@
 | `settings` | 설정 창 |
 | `packs` | 팩 관리 창 |
 | `decorate` | 디오라마 꾸미기 창 |
+| `hub` | 에디터 허브 창 |
 | `editor` | 캐릭터 에디터 창 |
 | `error` | 오류 문구 |
 
