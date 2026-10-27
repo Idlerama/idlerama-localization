@@ -80,7 +80,7 @@
   "editor.aseprite.applied": "태그 {count}개를 애니메이션에 붙였어요",
   "editor.aseprite.apply": "가져오기",
   "editor.aseprite.dirOf": "{tag}: 붙일 방향",
-  "editor.aseprite.frames": "프레임 {range} · {count}개",
+  "editor.aseprite.frameCount": "프레임",
   "editor.aseprite.mirror": "{dir}은 뒤집어 채워요",
   "editor.aseprite.new": "새로 만듦",
   "editor.aseprite.noTags": "태그가 없어 시트만 넣었어요",
