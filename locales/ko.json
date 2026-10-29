@@ -375,6 +375,7 @@
   "settings.monitors.primary": "주 모니터",
   "settings.monitors.readFailed": "모니터 정보를 읽지 못했어요. {reason}",
   "settings.monitors.resolution": "해상도",
+  "settings.monitors.stroll": "산책",
   "settings.report.appVersion": "앱 버전: {version}",
   "settings.report.count": "오류 {count}건",
   "settings.report.file": "파일 {file}",
