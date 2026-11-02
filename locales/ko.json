@@ -351,6 +351,8 @@
   "scale.value": "{scale}배",
   "settings.accessibility.font": "글꼴",
   "settings.accessibility.fontApp": "앱 글꼴",
+  "settings.accessibility.fontNone": "찾는 글꼴이 없어요.",
+  "settings.accessibility.fontSearch": "글꼴 이름으로 찾기",
   "settings.accessibility.fontSize": "글자 크기",
   "settings.accessibility.fontsLoadFailed": "설치된 글꼴을 읽지 못했어요. {reason}",
   "settings.accessibility.reduceMotion": "동작 줄이기",
