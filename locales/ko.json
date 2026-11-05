@@ -152,6 +152,7 @@
   "editor.import.title": "불러오기",
   "editor.importFailed": "시트를 넣지 못했습니다. {reason}",
   "editor.infoPanel.auto": "자동",
+  "editor.infoPanel.eyedropper": "정보창 그림에서 색 고르기",
   "editor.infoPanel.imageHint": "눌러서 고르거나 PNG를 끌어다 놓습니다. 408×120px(2배 816×240px)이면 정보창 전체에 그대로 그립니다. 96px 이하면 3×3으로 나눠 테두리로 늘려 씁니다. 비워 두면 기본 모양입니다.",
   "editor.infoPanel.tail": "꼬리",
   "editor.infoPanel.tailAuto": "그림에서 읽은 색으로",
