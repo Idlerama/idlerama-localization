@@ -341,6 +341,7 @@
   "error.packCheck.tileOutside": "타일 {id}: 프레임이 {file} 밖으로 나감",
   "error.packCheck.tileSize": "tile: 가로가 세로의 2배인 마름모여야 함 ({w}×{h})",
   "error.packCheck.unreadable": "{file}: 읽을 수 없음 ({reason})",
+  "error.packCheck.wall": "타일 {id}.wall: 오브젝트만 둘 수 있음",
   "error.packCheck.weight": "{at}.weight: IDLE과 예약 애니메이션은 가중치를 갖지 않음",
   "error.packCheck.wrongFolder": "팩 종류가 들어 있는 폴더와 다름 ({folder} 폴더)",
   "error.packs.dir": "팩 폴더를 찾지 못했습니다",
