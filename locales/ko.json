@@ -293,7 +293,7 @@
   "error.packCheck.notPack": "{file}: Idlerama 팩 파일이 아니거나 손상됨",
   "error.packCheck.notPng": "{file}: PNG가 아님",
   "error.packCheck.objectCells": "타일 {id}.cells: 비었거나 겹치거나 anchor가 칸 밖",
-  "error.packCheck.objectSize": "타일 {id}: 오브젝트는 size와 origin이 있어야 함",
+  "error.packCheck.objectSize": "타일 {id}: 오브젝트는 size가 있어야 하고, size가 있으면 origin도 있어야 함",
   "error.packCheck.overlap": "{a}와 {b}의 영역이 겹침",
   "error.packCheck.petArea": "petArea: IDLE 프레임({width}×{height}) 밖이거나 크기가 0",
   "error.packCheck.pointOutside": "{at} ({x}, {y})가 프레임({width}×{height}) 밖",
