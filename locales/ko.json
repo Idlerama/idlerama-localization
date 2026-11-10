@@ -334,6 +334,7 @@
   "error.packCheck.regionsEmpty": "{at}.regions: 비어 있음",
   "error.packCheck.sheetTooBig": "{file}: {max}×{max}보다 큼 ({width}×{height})",
   "error.packCheck.speed": "{at}: 0보다 크고 {max} 이하여야 함 ({value})",
+  "error.packCheck.stretch": "타일 {id}.stretch: 멈춘 오브젝트만 둘 수 있고, 그림 안의 위 < 아래여야 함",
   "error.packCheck.tileAt": "타일 {id}.frames.ms",
   "error.packCheck.tileFrames": "타일 {id}.frames: 1~{max}개여야 함",
   "error.packCheck.tileId": "tiles: 타일 번호가 0이거나 겹침 ({id})",
