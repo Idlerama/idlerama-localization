@@ -39,7 +39,6 @@
   "decorate.activeEmpty": "캐릭터를 여기로 끌어다 놓으면 활성화됩니다.",
   "decorate.info.duration": "{h}시간 {m}분 {s}초",
   "decorate.info.packs": "타일 팩",
-  "decorate.info.position": "위치",
   "decorate.info.size": "맵 크기",
   "decorate.info.tile": "타일 크기",
   "decorate.info.title": "디오라마 정보",
