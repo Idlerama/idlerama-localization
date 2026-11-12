@@ -431,7 +431,6 @@
   "packs.total": "전체 {count}",
   "packs.unnamedCharacter": "캐릭터 이름 없음",
   "scale.title": "배율",
-  "scale.value": "{scale}배",
   "settings.accessibility.fontSize": "글자 크기",
   "settings.accessibility.fontSizeLarge": "크게",
   "settings.accessibility.fontSizeNormal": "보통",
