@@ -57,6 +57,7 @@
   "decorate.map.name": "이름",
   "decorate.map.new": "새 디오라마",
   "decorate.map.rows": "세로 칸",
+  "decorate.map.size": "디오라마 크기",
   "decorate.map.tile": "타일 높이(px)",
   "decorate.map.title": "맵",
   "decorate.mapFailed": "디오라마를 바꾸지 못했습니다. {reason}",
