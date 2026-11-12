@@ -55,6 +55,7 @@
   "decorate.map.cols": "가로 칸",
   "decorate.map.create": "만들기",
   "decorate.map.delete": "디오라마 지우기",
+  "decorate.map.deleteText": "{name}을(를) 지웁니다. 되돌릴 수 없습니다.",
   "decorate.map.example": "오피스룸",
   "decorate.map.meadow": "초원",
   "decorate.map.name": "이름",
