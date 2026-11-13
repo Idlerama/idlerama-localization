@@ -425,7 +425,6 @@
   "hub.tilePacks": "타일 팩",
   "language.ko": "한국어",
   "packs.deleteFailed": "팩을 지우지 못했습니다. {reason}",
-  "packs.importDrop": "캐릭터 팩을 여기에 끌어다 놓으십시오",
   "packs.info": "팩 정보",
   "packs.kind.character": "캐릭터",
   "packs.kind.scene": "씬",
