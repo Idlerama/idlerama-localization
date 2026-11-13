@@ -68,6 +68,7 @@
   "decorate.map.tile": "타일 높이(px)",
   "decorate.map.title": "맵",
   "decorate.mapFailed": "디오라마를 바꾸지 못했습니다. {reason}",
+  "decorate.mapLock": "맵 고정",
   "decorate.mode.diorama": "디오라마",
   "decorate.mode.roam": "산책",
   "decorate.mode.title": "모드",
