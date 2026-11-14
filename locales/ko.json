@@ -346,6 +346,8 @@
   "error.editor.sheetTooBig": "그림은 가로세로 {max}px 이하여야 합니다 ({width}×{height})",
   "error.editor.trashOld": "예전 팩을 휴지통으로 옮기지 못했습니다",
   "error.packCheck.at": "{line}줄 {column}열",
+  "error.packCheck.autotile": "타일 {id}.autotile: 탑뷰 바닥만 둘 수 있고, 모서리는 1~15이며 한 세트 안에서 겹치지 않아야 함",
+  "error.packCheck.autotileFull": "오토타일 세트 {set}: 가득 찬 조각(모서리 15)이 있어야 함",
   "error.packCheck.badJson": "JSON 문법이 올바르지 않음 ({at})",
   "error.packCheck.badValue": "값이 올바르지 않음 ({at})",
   "error.packCheck.bubbleTail": "bubbleTail: 색은 #RRGGBB, 두께는 {min}~{max}여야 함",
