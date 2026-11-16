@@ -91,6 +91,8 @@
   "decorate.tool.brush": "브러시",
   "decorate.tool.bucket": "양동이",
   "decorate.tool.eraser": "지우개",
+  "decorate.tool.flip": "뒤집기 (R)",
+  "decorate.tool.move": "옮기기",
   "decorate.tool.picker": "스포이드",
   "decorate.tool.spawn": "스폰",
   "decorate.viewFailed": "시점을 바꾸지 못했습니다. {reason}",
