@@ -218,6 +218,7 @@
   "editor.inspector.playback": "재생 방식",
   "editor.inspector.spacing": "간격",
   "editor.inspector.speed": "속도(칸/초)",
+  "editor.inspector.sprite": "스프라이트",
   "editor.inspector.stay": "제자리",
   "editor.inspector.time": "시간(ms)",
   "editor.inspector.tooManyFrames": "펼치면 {count}프레임이 되어 {max}프레임을 넘습니다. 내보내기에 실패합니다.",
