@@ -208,7 +208,7 @@
   "editor.inspector.height": "높이",
   "editor.inspector.horizontal": "가로",
   "editor.inspector.maxCells": "최대 거리(칸)",
-  "editor.inspector.mirror": "현재 애니메이션을 {direction}에 뒤집어 복사",
+  "editor.inspector.mirror": "{direction}에 뒤집어 복사",
   "editor.inspector.mixed": "여러 값",
   "editor.inspector.move": "이동",
   "editor.inspector.name": "이름",
