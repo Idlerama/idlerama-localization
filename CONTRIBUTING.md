@@ -27,6 +27,7 @@
 | `decorate` | 디오라마 창 |
 | `hub` | 에디터 허브 창 |
 | `editor` | 캐릭터 에디터 창 |
+| `notes` | 업데이트 노트 창 |
 | `error` | 오류 문구 |
 
 - 각 마디는 camelCase로 씁니다(`alwaysOnTop`).

@@ -469,6 +469,7 @@
   "hub.scenePacks": "씬 팩",
   "hub.tilePacks": "타일 팩",
   "language.ko": "한국어",
+  "notes.empty": "아직 업데이트 노트가 없습니다.",
   "packs.deleteFailed": "팩을 지우지 못했습니다. {reason}",
   "packs.info": "팩 정보",
   "packs.kind.character": "캐릭터",
@@ -583,6 +584,7 @@
   "settings.update.check": "확인",
   "settings.update.install": "설치",
   "settings.update.latest": "최신 버전입니다",
+  "settings.update.openNotes": "보기",
   "settings.update.version": "버전 {version}",
   "tray.quit": "종료",
   "view.any": "모든 시점",
@@ -595,5 +597,6 @@
   "window.hub": "에디터",
   "window.packs": "팩 관리",
   "window.settings": "설정",
-  "window.tileEditor": "타일 에디터"
+  "window.tileEditor": "타일 에디터",
+  "window.updateNotes": "업데이트 노트"
 }
