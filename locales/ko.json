@@ -488,6 +488,7 @@
   "settings.appearance.accent": "포인트",
   "settings.appearance.add": "추가",
   "settings.appearance.background": "배경",
+  "settings.appearance.colorThemes": "색상 테마",
   "settings.appearance.custom": "사용자 지정",
   "settings.appearance.customHint": "글자가 잘 읽히도록 배경과 본문 색은 고른 색과 조금 다르게 적용합니다.",
   "settings.appearance.darkThemes": "어두운 테마",
