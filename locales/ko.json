@@ -558,6 +558,7 @@
   "sceneEditor.noSize": "그림 크기가 없습니다",
   "sceneEditor.open": "그림 불러오기",
   "sceneEditor.scene": "장면",
+  "sceneEditor.showCells": "칸 보이기",
   "sceneEditor.unnamed": "레이어 {id}",
   "sceneEditor.visible": "보이기",
   "settings.accessibility.fontSize": "글자 크기",
