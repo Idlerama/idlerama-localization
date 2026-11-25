@@ -543,7 +543,6 @@
   "sceneEditor.brush": "브러시",
   "sceneEditor.cellSize": "격자 칸 높이(px)",
   "sceneEditor.cells": "칸",
-  "sceneEditor.cellsClear": "모두 지우기",
   "sceneEditor.confirmDeleteLayer": "{name} 레이어를 지우시겠습니까?",
   "sceneEditor.drop": "PNG, GIF, Aseprite 파일을 여기에 끌어다 놓으십시오",
   "sceneEditor.eraser": "지우개",
