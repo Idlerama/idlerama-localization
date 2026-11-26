@@ -73,6 +73,7 @@
   "decorate.kind.wall": "벽",
   "decorate.kind.wallDecoration": "벽 장식",
   "decorate.loadFailed": "캐릭터를 불러오지 못했습니다. {reason}",
+  "decorate.map.cells": "칸",
   "decorate.map.cols": "가로",
   "decorate.map.create": "만들기",
   "decorate.map.deleteText": "{name}을(를) 지웁니다.",
