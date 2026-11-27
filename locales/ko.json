@@ -545,6 +545,8 @@
   "packs.unnamedCharacter": "캐릭터 이름 없음",
   "scale.title": "배율",
   "scale.tooLarge": "캐릭터가 모니터보다 커집니다. 이대로 두시겠습니까?",
+  "sceneEditor.asepriteUpdated": "Aseprite 레이어 {updated}개를 갱신하고 {added}개를 추가했습니다",
+  "sceneEditor.asepriteUpdatedMissing": "Aseprite 레이어 {updated}개를 갱신하고 {added}개를 추가했습니다. 파일에 없는 레이어 {missing}개는 그대로 두었습니다",
   "sceneEditor.brush": "브러시",
   "sceneEditor.cellSize": "격자 칸 높이(px)",
   "sceneEditor.cells": "칸",
