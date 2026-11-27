@@ -162,6 +162,8 @@
   "editor.aseprite.preview": "첫 프레임",
   "editor.aseprite.replace": "덮어씀",
   "editor.aseprite.result": "결과",
+  "editor.aseprite.same": "변경 없음",
+  "editor.aseprite.sameGroup": "변경 없는 태그 {count}개",
   "editor.aseprite.skip": "건너뜀",
   "editor.aseprite.skipBadName": "쓸 수 없는 이름입니다",
   "editor.aseprite.skipDuplicate": "{by} 태그가 같은 애니메이션·방향에 먼저 붙습니다",
